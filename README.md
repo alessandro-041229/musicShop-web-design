@@ -1,6 +1,6 @@
 # web-design school
 
-this section contains the finished school projects of alessandro salvadori regarding web-design during the year 2023-2024
+this section contains the finished projects of alessandro salvadori regarding web-design and creation of websites
 they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML for the creation and edit of stable web sites
 
 for run the following programs is necessary the utilize of XAMPP..
