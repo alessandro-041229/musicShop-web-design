@@ -12,3 +12,5 @@ and the installation of heidiSQL as following for run the database and test it.
 HeidiSQL is a free and open-source administration tool for MariaDB, MySQL, as well as Microsoft SQL Server, PostgreSQL and SQLite.
 
 link to website for download: https://www.heidisql.com/
+
+as last, just utilize any program of choice who can run php, html, css code(visual studio as example) for visualize the main code behind the web site
