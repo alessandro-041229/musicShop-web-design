@@ -30,3 +30,9 @@ and as next step just press on start for both apache and SQL
 next one must press on the button 'admin' on the apache section for access and visualize the web sites contained 
 in the 'local host' folder inside wich you must insert the file downloaded from here and unzip it
 the folder can be found in the xampp folder inside the local disk section
+
+# Additional notes
+
+all infos for the various logins can be found in the database where the accounts are listed
+for access the database is necessary to open the application installed of hidelSQL after XAMPP is started up
+once done that you can simply open the application and select the database to run and control
