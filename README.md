@@ -1,7 +1,9 @@
-# web-design school
+# web-design
 
 this section contains the finished projects of alessandro salvadori regarding web-design and creation of websites
 they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML for the creation and edit of stable web sites
+
+# how to run
 
 for run the following programs is necessary the utilize of XAMPP..
 XAMPP is a completely free and easy to install Apache distribution containing MySQL, PHP and Perl.
