@@ -23,4 +23,4 @@ as last, just utilize any program of choice who can run php, html, css code(visu
 # how to run
 
 for start one must open the xampp controll panel for start up the 
-![xampp controll panel]([file:///C:/Users/Alessandro/Pictures/fgfgs.png](https://images.javatpoint.com/tutorial/xampp/images/xampp-control-panel12.png))
+![xampp controll panel](https://images.javatpoint.com/tutorial/xampp/images/xampp-control-panel12.png)
