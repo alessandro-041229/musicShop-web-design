@@ -1,9 +1,12 @@
 # web-design
 
 this section contains the finished projects of alessandro salvadori regarding web-design and creation of websites
-they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML for the creation and edit of stable web sites
+they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML 
+for indicate the planning and technical development phase of a website 
 
-# how to run
+
+
+# requisites
 
 for run the following programs is necessary the utilize of XAMPP..
 XAMPP is a completely free and easy to install Apache distribution containing MySQL, PHP and Perl.
@@ -16,3 +19,8 @@ HeidiSQL is a free and open-source administration tool for MariaDB, MySQL, as we
 link to website for download: https://www.heidisql.com/
 
 as last, just utilize any program of choice who can run php, html, css code(visual studio as example) for visualize the main code behind the web site
+
+# how to run
+
+for start one must open the xampp controll pannel for start up the 
+![alt text](file:///C:/Users/Alessandro/Pictures/fgfgs.png)
