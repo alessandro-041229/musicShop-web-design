@@ -22,5 +22,11 @@ as last, just utilize any program of choice who can run php, html, css code(visu
 
 # how to run
 
-for start one must open the xampp controll panel for start up the 
+for start one must open the xampp controll panel for start up the control panel showed in the picture,
+and as next step just press on start for both apache and SQL
+
 ![xampp controll panel](https://images.javatpoint.com/tutorial/xampp/images/xampp-control-panel12.png)
+
+next one must press on the button 'admin' on the apache section for access and visualize the web sites contained 
+in the 'local host' folder inside wich you must insert the file downloaded from here and unzip it
+the folder can be found in the xampp folder found in the local disk
