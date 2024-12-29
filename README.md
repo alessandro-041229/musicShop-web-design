@@ -29,4 +29,4 @@ and as next step just press on start for both apache and SQL
 
 next one must press on the button 'admin' on the apache section for access and visualize the web sites contained 
 in the 'local host' folder inside wich you must insert the file downloaded from here and unzip it
-the folder can be found in the xampp folder found in the local disk
+the folder can be found in the xampp folder inside the local disk section
