@@ -1,9 +1,10 @@
 # web-design
 
-this section contains the finished projects of alessandro salvadori regarding web-design and creation of websites
+this section contains the finished project of alessandro salvadori regarding web-design and creation of websites
 they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML 
 for indicate the planning and technical development phase of a website 
 
+in this case we speak of a project about a music shop
 
 
 # requisites
@@ -36,3 +37,12 @@ the folder can be found in the xampp folder inside the local disk section
 all infos for the various logins can be found in the database where the accounts are listed
 for access the database is necessary to open the application installed of hidelSQL after XAMPP is started up
 once done that you can simply open the application and select the database to run and control
+
+# how to use
+
+it's based on a simple login interface, you can register new users when you want as a client
+but administrators who can add and edit songs can be added only in the database directly
+but for now the credential for the first administrator are 'TEE03' as username and 'abcd.1234' as password
+
+once runned upon loading credits you'll be able to buy musical discs or songs whitout trouble
+and as administrator you'll be able to add new products or singers
