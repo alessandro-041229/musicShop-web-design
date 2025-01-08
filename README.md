@@ -1,11 +1,12 @@
 # MUSIC SHOP
 
-this section contains the finished project of alessandro salvadori regarding web-design and creation of websites
-they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML 
-for indicate the planning and technical development phase of a website 
+this repository contains a finished project regarding an online website for a music shop,
+wich allows the users to buy the various songs copies for their own with a system for recharge their own
+online wallet for the app.
 
-in this case we speak of a project about a music shop
-
+at same time with a section dedicated to the administrators from wich they will be able to 
+edit and change the informations regarding the songs disponibility and even add new songs
+or artists to the list of the one already present.
 
 # requisites
 
