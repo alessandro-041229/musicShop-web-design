@@ -51,9 +51,9 @@ once done that you can simply open the application and select the database to ru
 
 # how to use
 
-it's based on a simple login interface, you can register new users when you want as a client
+1. it's based on a simple login interface, you can register new users when you want as a client
 but administrators who can add and edit songs can be added only in the database directly
-but for now the credential for the first administrator are 'TEE03' as username and 'abcd.1234' as password
+  * the credential for the first administrator are 'TEE03' as username and 'abcd.1234' as password
+![PAGE](file:///C:/Users/Alessandro/Pictures/hgh.png)
 
-once runned upon loading credits you'll be able to buy musical discs or songs whitout trouble
-and as administrator you'll be able to add new products or singers
+2. once runned upon loading credits you'll be able to buy musical discs or songs whitout trouble and as administrator you'll be able to add new products or singers
