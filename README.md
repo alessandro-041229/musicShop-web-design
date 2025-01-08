@@ -1,22 +1,22 @@
 # MUSIC SHOP
 
 this repository contains a finished project regarding an online website for a music shop,
-wich allows the users to buy the various songs copies for their own with a system for recharge their own
+which allows the users to buy the various songs copies for their own with a system for recharge their own
 online wallet for the app.
 
-at same time with a section dedicated to the administrators from wich they will be able to 
+at same time with a section dedicated to the administrators from which they will be able to 
 edit and change the informations regarding the songs disponibility and even add new songs
-or artists to the list of the one already present.
+or artists to the list of the ones already present.
 
 # requisites
 
 
-* for run the following program is necessary the utilize of XAMPP..
+* to run the following program is necessary to utilize XAMPP.
 XAMPP is a completely free and easy to install Apache distribution containing MySQL, PHP and Perl.
 link to website for download: https://www.apachefriends.org/it/index.html
 
 
-* the installation of heidiSQL as following for run the database and test it.
+* the installation of heidiSQL to run the database and test it.
 HeidiSQL is a free and open-source administration tool for MariaDB, MySQL, as well as Microsoft SQL Server, PostgreSQL and SQLite.
 link to website for download: https://www.heidisql.com/
 
@@ -46,9 +46,10 @@ in the 'local host'
 
 # Additional notes
 
-all infos for the various logins can be found in the database where the accounts are listed
+all informations for the various logins can be found in the database where the accounts are listed
 for access the database is necessary to open the application installed of hidelSQL after XAMPP is started up
 once done that you can simply open the application and select the database to run and control
+
 
 # how to use
 
@@ -56,4 +57,4 @@ once done that you can simply open the application and select the database to ru
 but administrators who can add and edit songs can be added only in the database directly
   * the credential for the first administrator are 'TEE03' as username and 'abcd.1234' as password
 
-2. once runned upon loading credits you'll be able to buy musical discs or songs whitout trouble and as administrator you'll be able to add new products or singers
+2. once runned upon loading credits you'll be able to buy musical discs or songs without trouble and as administrator you'll be able to add new products or singers
