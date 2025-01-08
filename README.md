@@ -12,7 +12,6 @@ in this case we speak of a project about a music shop
 
 * for run the following program is necessary the utilize of XAMPP..
 XAMPP is a completely free and easy to install Apache distribution containing MySQL, PHP and Perl.
-
 link to website for download: https://www.apachefriends.org/it/index.html
 
 
@@ -24,21 +23,21 @@ link to website for download: https://www.heidisql.com/
 
 # how to run
 
-for start one must open the xampp controll panel for start up the control panel showed in the picture,
+1. for start one must open the xampp controll panel for start up the control panel showed in the picture,
 and as next step just press on start for both apache and SQL
 
 ![xampp controll panel](https://images.javatpoint.com/tutorial/xampp/images/xampp-control-panel12.png)
 
-after you download the databse .sql you will have to open it on sql, you can do that by 
-1. press on file on the top left
-2. select the file to upoload and upload it
-3. run the database so that it will get saved on the app
+2. after you download the databse .sql you will have to open it on sql, you can do that by 
+2a. press on file on the top left
+2b. select the file to upoload and upload it
+2c. run the database so that it will get saved on the app
 
 ![SQL page](https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2021/05/Screenshot-2021-05-23-195219-1775337.png?resize=707%2C437&ssl=1)
 
-for last you will need to download all of the files within the Github repository and move them inside an unique folder alongside the database.
+3. for last you will need to download all of the files within the Github repository and move them inside an unique folder alongside the database.
 
-and, going back to the XAMPP control pannel you must press on the button 'admin' on the apache section for access and visualize the web sites contained 
+4. going back to the XAMPP control pannel you must press on the button 'admin' on the apache section for access and visualize the web sites contained 
 in the 'local host' 
 
 # Additional notes
