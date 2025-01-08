@@ -28,9 +28,12 @@ and as next step just press on start for both apache and SQL
 
 ![xampp controll panel](https://images.javatpoint.com/tutorial/xampp/images/xampp-control-panel12.png)
 
-2. after you download the databse .sql you will have to open it on sql, you can do that by 
+2. after you download the databse .sql you will have to open it on sql, you can do that by
+
 2a. press on file on the top left
+
 2b. select the file to upoload and upload it
+
 2c. run the database so that it will get saved on the app
 
 ![SQL page](https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2021/05/Screenshot-2021-05-23-195219-1775337.png?resize=707%2C437&ssl=1)
