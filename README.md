@@ -1,4 +1,4 @@
-# web-design
+# MUSIC SHOP
 
 this section contains the finished project of alessandro salvadori regarding web-design and creation of websites
 they consist in the use of heidiSQL database creation and the use of PHP, CSS and HTML 
