@@ -11,14 +11,14 @@ or artists to the list of the ones already present.
 # requisites
 
 make sure to have installed:
-* ![XAMPP](https://www.apachefriends.org/it/download.html) for windows
+* [XAMPP](https://www.apachefriends.org/it/download.html) for windows
 XAMPP is a completely free and easy to install Apache distribution containing MySQL, PHP and Perl.
 
 
-* ![HeidiSQL](https://www.heidisql.com/download.php) 
+* [HeidiSQL](https://www.heidisql.com/download.php) 
 HeidiSQL is a free and open-source administration tool for MariaDB, MySQL, as well as Microsoft SQL Server, PostgreSQL and SQLite.
 
-* ![Visual Studio code ](https://visualstudio.microsoft.com/it/downloads/)
+* [Visual Studio code ](https://visualstudio.microsoft.com/it/downloads/)
 
 # how to run
 
